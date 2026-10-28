@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/banner-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/banner-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img src="./assets/banner-light.svg" width="100%" alt="xwyan — 把想法做成能用的工具。">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/xinglabs/xinglabs/main/assets/banner-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/xinglabs/xinglabs/main/assets/banner-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinglabs/xinglabs/main/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/xinglabs/xinglabs/main/assets/banner-light.svg" width="100%" alt="xwyan — 把想法做成能用的工具。">
 </picture>
 
 你好，我是 **xwyan**，在北京。  
