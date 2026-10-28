@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="352" viewBox="0 0 520 352" role="img" aria-labelledby="title desc">
+  <title id="title">xwyan</title>
+  <desc id="desc">把想法做成能用的工具。Original two-tone author wordmark in ink and warm orange.</desc>
+  <rect x=".5" y=".5" width="519" height="351" rx="12" fill="#19231D" stroke="#3C4E40"/>
+  <text x="34" y="132" fill="#F0EBDF" font-family="Georgia, 'Times New Roman', serif" font-size="108" letter-spacing="-3"><tspan fill="#F0A277">x</tspan>wyan</text>
+  <path d="M34 177H486" fill="none" stroke="#3C4E40"/>
+  <text x="34" y="247" fill="#F0EBDF" font-family="'Noto Serif CJK SC', 'Songti SC', 'STSong', serif" font-size="42"><tspan x="34">把想法做成</tspan><tspan x="34" dy="57">能用的工具。</tspan></text>
+</svg>
